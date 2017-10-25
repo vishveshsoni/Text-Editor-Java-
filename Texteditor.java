@@ -1,7 +1,7 @@
 /*
  * sw7.java
  *
- * Created on 10 march, 2017, 9:42:56 PM
+ * Created on 15 december, 2016, 9:42:56 PM
  */
 
 package swingexamples;
